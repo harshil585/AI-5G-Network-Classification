@@ -111,7 +111,3 @@ It is suitable for modern 5G MEC environments and works even with encrypted traf
 
 ---
 
-
-## 📎 Note
-
-Make sure required tools (`tcpdump`, `Argus`) are installed before running.
